@@ -1,76 +1,124 @@
-# 👋 Welcome to my GitHub Profile
+<h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<h3 align="center">
+🚀 Hi, I'm Manoranjan | Full Stack Developer
+</h3>
 
-## Hi, I'm Manoranjan 🚀
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile+🚀;I'm+learning+MERN+Stack;Building+Real+World+Projects;React+%7C+Node.js+%7C+MongoDB">
+</p>
 
-💻 Aspiring Full Stack Developer
 
-I am learning and building projects using modern web technologies.
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
 
----
 
 ## 🧑‍💻 About Me
 
-- 🌱 Currently learning React & MERN Stack
-- 💡 Interested in Web Development
-- 🚀 Building real-world projects
-- 📚 Improving my coding skills daily
+- 👋 My name is **Manoranjan**
+- 💻 Aspiring Full Stack Developer
+- 🌱 Currently learning **MERN Stack**
+- ⚛️ Working with React.js
+- 🔥 Building real-world web applications
+- 📚 Improving my coding skills every day
+
 
 ---
 
-## 🛠️ My Skills
+## 🚀 My Tech Stack
+
 
 ### Frontend
 
-HTML  
-CSS  
-JavaScript  
-React.js  
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react">
+</p>
+
 
 ### Backend
 
-Node.js  
-Express.js  
-MongoDB  
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb">
+</p>
+
 
 ### Tools
 
-Git  
-GitHub  
-VS Code  
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode">
+</p>
+
 
 ---
 
-## 🚀 My Projects
+# 📂 My Projects
 
-📌 React Projects
 
-✅ Counter App  
+## 🚀 React Projects
+
+✅ Counter Application  
 ✅ Toggle Button  
-✅ Login System  
+✅ Login Authentication UI  
 ✅ Form Validation  
+✅ Dark Mode Application  
 
 
-📌 MERN Projects (Coming Soon)
+## 🔥 MERN Stack Projects
 
-✅ Authentication System  
-✅ CRUD Application  
-✅ Full Stack Apps  
+🚧 Authentication System (Coming Soon)
+
+🚧 CRUD Application (Coming Soon)
+
+🚧 Full Stack Web Application (Coming Soon)
+
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight">
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight">
+
 
 ---
 
-## 📫 Contact Me
+# 🎯 Current Goals
 
-Email: shubhamsrivastava2045@gmail.com
+🚀 Become a Full Stack Developer
+
+⚛️ Master React.js
+
+🛠 Build Professional Projects
+
+🌍 Create Real World Applications
 
 
-⭐ Thanks for visiting my profile!
+---
 
-Happy Coding 🚀
+# 📫 Connect With Me
+
+
+📧 Email:
+shubhamsrivastava2045@gmail.com
+
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
+
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue">
+</p>
+
+
+<h3 align="center">
+🚀 Keep Coding | Keep Learning
+</h3>
