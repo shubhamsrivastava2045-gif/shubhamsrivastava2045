@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=200&section=header&text=Manoranjan%20Srivastava&fontSize=50&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Manoranjan%20Srivastava&fontSize=50&animation=fadeIn" />
+
+
 
 
 <h1 align="center">
@@ -144,4 +146,7 @@ shubhamsrivastava2045@gmail.com
 <h3 align="center">
 🚀 Keep Coding | Keep Learning
 </h3> 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsrivastava2045&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=shubhamsrivastava2045&show_icons=true">
 
